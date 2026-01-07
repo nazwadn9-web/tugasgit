@@ -1,1 +1,1 @@
-## Hari ini saya belajar memakai branch
+## Hari ini saya belajar latihan memakai branch
